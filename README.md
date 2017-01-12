@@ -2,7 +2,7 @@
 
 ## 仿QQ一键下班效果
 
-![](SpringView.gif)
+![](springView.gif)
 
 ## Usage
 
