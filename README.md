@@ -1,11 +1,10 @@
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Platform](https://img.shields.io/badge/platform-iOS-red.svg)
+
 
 ## 仿QQ一键下班效果
 
-![](springView.gif)
+![](SpringView.gif)
 
-## SetUp
+## Usage
 
 ``` 
  CASpringView *view = [CASpringView attachToView:self.view withFrame:CGRectMake(30,[UIScreen mainScreen].bounds.size.height - 200, 120, 200)];
@@ -17,6 +16,7 @@
     view.boomDistance = 50;
     self.springView = view;
 ```
+
 
 
 
